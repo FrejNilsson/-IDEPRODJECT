@@ -62,4 +62,9 @@ video{
     transform: translateX(-50%) translateY(-50%);
     background: url(polina.jpg) no-repeat;
     background-size: cover; 
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
 }
