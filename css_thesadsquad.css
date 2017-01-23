@@ -47,8 +47,6 @@ img {
     z-index: -100;
 }
 
-var video = document.getElementById("myVideo");
-vid.volume = 0.2;
 
 video{ 
     position: fixed;
